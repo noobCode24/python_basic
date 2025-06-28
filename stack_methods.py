@@ -8,3 +8,5 @@ print("3. pop:", stack.pop())                         # Lấy và xóa phần t�
 print("4. peek (top):", stack[-1])                    # Xem phần tử đỉnh mà không xóa: 1
 print("5. is_empty:", not stack)                      # Kiểm tra stack rỗng: False
 print("6. size:", len(stack))                         # Kích thước stack: 1
+
+#Day la dong sua doi
